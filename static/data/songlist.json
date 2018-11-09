@@ -1,0 +1,705 @@
+{
+  "result": "SUCCESS",
+  "code": 200,
+  "data": [{
+    "id": "471403427",
+    "name": "我喜欢上你时的内心活动",
+    "singer": "陈绮贞",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=471403427&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=471403427&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=471403427&key=579621905"
+  }, {
+    "id": "550210712",
+    "name": "我喜欢上你时的内心活动（Cover：陈绮贞）",
+    "singer": "很美味",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=550210712&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=550210712&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=550210712&key=579621905"
+  }, {
+    "id": "479601467",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "Jeffrey",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=479601467&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=479601467&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=479601467&key=579621905"
+  }, {
+    "id": "478006919",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "少恭",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=478006919&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=478006919&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=478006919&key=579621905"
+  }, {
+    "id": "480426411",
+    "name": "我喜欢上你时的内心活动",
+    "singer": "陈绮贞",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=480426411&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=480426411&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=480426411&key=579621905"
+  }, {
+    "id": "475824663",
+    "name": "【钢琴】我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "昼夜",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=475824663&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=475824663&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=475824663&key=579621905"
+  }, {
+    "id": "472375846",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "木本",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=472375846&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=472375846&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=472375846&key=579621905"
+  }, {
+    "id": "494660330",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "Rainton桐",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=494660330&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=494660330&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=494660330&key=579621905"
+  }, {
+    "id": "475255968",
+    "name": "我喜欢上你时的内心活动《喜欢你》电影钢琴改编【陈墨",
+    "singer": "陈默",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=475255968&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=475255968&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=475255968&key=579621905"
+  }, {
+    "id": "534649629",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "纳豆",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=534649629&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=534649629&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=534649629&key=579621905"
+  }, {
+    "id": "492639342",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "秋仁",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=492639342&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=492639342&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=492639342&key=579621905"
+  }, {
+    "id": "556013273",
+    "name": "我喜欢上你时的内心活动（Cover：赵天宇）",
+    "singer": "李晨曦",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=556013273&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=556013273&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=556013273&key=579621905"
+  }, {
+    "id": "477004134",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "江柚子",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=477004134&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=477004134&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=477004134&key=579621905"
+  }, {
+    "id": "490838175",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "包师语",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=490838175&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=490838175&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=490838175&key=579621905"
+  }, {
+    "id": "472317659",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "张罐子",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=472317659&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=472317659&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=472317659&key=579621905"
+  }, {
+    "id": "471755883",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "崔骏/草帽呀",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=471755883&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=471755883&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=471755883&key=579621905"
+  }, {
+    "id": "517643327",
+    "name": "我喜欢上你时的内心活动",
+    "singer": "陳梦嘉",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=517643327&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=517643327&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=517643327&key=579621905"
+  }, {
+    "id": "494125103",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "颜素susu",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=494125103&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=494125103&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=494125103&key=579621905"
+  }, {
+    "id": "475088973",
+    "name": "我喜欢上你时的内心活动（尤克里里版）（Cover 陈绮贞）",
+    "singer": "黄MerMer",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=475088973&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=475088973&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=475088973&key=579621905"
+  }, {
+    "id": "558586513",
+    "name": "鱼玄机（Cover 滨崎步）",
+    "singer": "三四ve",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=558586513&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=558586513&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=558586513&key=579621905"
+  }, {
+    "id": "477033374",
+    "name": "我喜欢上你时的内心活动｜钢琴（Cover 陈绮贞）",
+    "singer": "何小樂",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=477033374&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=477033374&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=477033374&key=579621905"
+  }, {
+    "id": "480280693",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "小盒纸酱",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=480280693&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=480280693&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=480280693&key=579621905"
+  }, {
+    "id": "475121193",
+    "name": "电影《喜欢你》主题曲（原声钢琴版）（Cover 陈绮贞）",
+    "singer": "dylanf",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=475121193&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=475121193&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=475121193&key=579621905"
+  }, {
+    "id": "1309280995",
+    "name": "我喜欢上你时的内心活动（Cover：陈绮贞）",
+    "singer": "Clever勺子",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=1309280995&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=1309280995&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=1309280995&key=579621905"
+  }, {
+    "id": "473958869",
+    "name": "我喜欢上你时的内心活动 吉他弹唱（Cover 陈绮贞）",
+    "singer": "燕子姐姐弹吉他",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=473958869&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=473958869&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=473958869&key=579621905"
+  }, {
+    "id": "476055715",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "刘欣然",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=476055715&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=476055715&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=476055715&key=579621905"
+  }, {
+    "id": "479396763",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "青柠",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=479396763&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=479396763&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=479396763&key=579621905"
+  }, {
+    "id": "544186543",
+    "name": "我喜欢上你时的内心活动【彩蛋】（Cover 陈绮贞）",
+    "singer": "情桑",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=544186543&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=544186543&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=544186543&key=579621905"
+  }, {
+    "id": "476031715",
+    "name": "我喜欢上你时的内心活动/ukulele指弹版（Cover 陈绮贞）",
+    "singer": "崔骏",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=476031715&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=476031715&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=476031715&key=579621905"
+  }, {
+    "id": "1301619976",
+    "name": "我喜欢上你时的内心活动（伴奏）（Cover：陈绮贞）",
+    "singer": "粥羊羊",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=1301619976&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=1301619976&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=1301619976&key=579621905"
+  }, {
+    "id": "547807062",
+    "name": "我喜欢上你时的内心活动（Cover：陈绮贞）",
+    "singer": "包包.suyi",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=547807062&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=547807062&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=547807062&key=579621905"
+  }, {
+    "id": "1301415148",
+    "name": "我喜欢上你时的内心活动（Cover：陈绮贞）",
+    "singer": "斯雷嘟dududu",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=1301415148&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=1301415148&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=1301415148&key=579621905"
+  }, {
+    "id": "476259918",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "辛七一",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=476259918&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=476259918&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=476259918&key=579621905"
+  }, {
+    "id": "558583411",
+    "name": "恋爱循环（Cover 花澤香菜）",
+    "singer": "三四ve",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=558583411&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=558583411&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=558583411&key=579621905"
+  }, {
+    "id": "493077142",
+    "name": "我喜欢上你时的内心活动",
+    "singer": "时致",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=493077142&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=493077142&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=493077142&key=579621905"
+  }, {
+    "id": "568770252",
+    "name": "《我喜欢上你时的内心活动》-李格（Cover：陈绮贞）",
+    "singer": "李格",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=568770252&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=568770252&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=568770252&key=579621905"
+  }, {
+    "id": "546537052",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "Ssssperm",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=546537052&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=546537052&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=546537052&key=579621905"
+  }, {
+    "id": "502041176",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "坠；一",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=502041176&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=502041176&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=502041176&key=579621905"
+  }, {
+    "id": "477472472",
+    "name": "我喜欢上你时的内心活动 Re arrange（Cover 陈绮贞）",
+    "singer": "徐云霄",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=477472472&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=477472472&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=477472472&key=579621905"
+  }, {
+    "id": "478022525",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "陈曦",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=478022525&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=478022525&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=478022525&key=579621905"
+  }, {
+    "id": "539652377",
+    "name": "我喜欢上你时的内心活动（Remix 伴奏）",
+    "singer": "菜籽",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=539652377&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=539652377&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=539652377&key=579621905"
+  }, {
+    "id": "558232501",
+    "name": "我喜欢上你时的内心活动",
+    "singer": "杨楚骁",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=558232501&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=558232501&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=558232501&key=579621905"
+  }, {
+    "id": "496758927",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "刘硕",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=496758927&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=496758927&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=496758927&key=579621905"
+  }, {
+    "id": "1318277438",
+    "name": "我喜欢上你时的内心活动（Cover：陈绮贞）",
+    "singer": "草台乱唱",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=1318277438&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=1318277438&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=1318277438&key=579621905"
+  }, {
+    "id": "557553769",
+    "name": "起风了（Cover 买辣椒也用券）",
+    "singer": "三四ve",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=557553769&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=557553769&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=557553769&key=579621905"
+  }, {
+    "id": "508351046",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "洛萱",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=508351046&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=508351046&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=508351046&key=579621905"
+  }, {
+    "id": "481847325",
+    "name": "我喜欢上你时的内心活动（电影《喜欢你》主题曲）（Cover 陈绮贞）",
+    "singer": "邢子昊",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=481847325&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=481847325&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=481847325&key=579621905"
+  }, {
+    "id": "471851918",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "香蕉",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=471851918&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=471851918&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=471851918&key=579621905"
+  }, {
+    "id": "479768977",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "末小皮",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=479768977&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=479768977&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=479768977&key=579621905"
+  }, {
+    "id": "475817115",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "Mike",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=475817115&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=475817115&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=475817115&key=579621905"
+  }, {
+    "id": "481948370",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "小璇儿",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=481948370&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=481948370&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=481948370&key=579621905"
+  }, {
+    "id": "1295886340",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "想喝AD钙奶的小元子",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=1295886340&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=1295886340&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=1295886340&key=579621905"
+  }, {
+    "id": "1297357489",
+    "name": "我喜欢上你时的内心活动（钢琴弹唱版）（Cover：陈绮贞）",
+    "singer": "若拉Rola",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=1297357489&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=1297357489&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=1297357489&key=579621905"
+  }, {
+    "id": "481062462",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "文若锦",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=481062462&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=481062462&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=481062462&key=579621905"
+  }, {
+    "id": "473879427",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "灯芒",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=473879427&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=473879427&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=473879427&key=579621905"
+  }, {
+    "id": "472023101",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "余丛义",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=472023101&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=472023101&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=472023101&key=579621905"
+  }, {
+    "id": "527413139",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "晚安君",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=527413139&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=527413139&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=527413139&key=579621905"
+  }, {
+    "id": "479959584",
+    "name": "我喜欢上你时的内心活动",
+    "singer": "Sandy Sun",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=479959584&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=479959584&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=479959584&key=579621905"
+  }, {
+    "id": "482612970",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "阿觅",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=482612970&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=482612970&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=482612970&key=579621905"
+  }, {
+    "id": "548166799",
+    "name": "【指弹】我喜欢上你时的内心活动（Cover：陈绮贞）",
+    "singer": "东尼指弹",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=548166799&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=548166799&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=548166799&key=579621905"
+  }, {
+    "id": "493467246",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "老陈酒.",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=493467246&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=493467246&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=493467246&key=579621905"
+  }, {
+    "id": "475082864",
+    "name": "我喜欢上你时的内心活动（钢琴版）（Cover 陈绮贞）",
+    "singer": "蒋大哲",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=475082864&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=475082864&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=475082864&key=579621905"
+  }, {
+    "id": "536858500",
+    "name": "我喜欢上你的时的内心活动（Cover 陈绮贞）",
+    "singer": "胡桃クルミ",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=536858500&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=536858500&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=536858500&key=579621905"
+  }, {
+    "id": "556651749",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "枕然",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=556651749&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=556651749&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=556651749&key=579621905"
+  }, {
+    "id": "488934626",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "曦芫",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=488934626&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=488934626&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=488934626&key=579621905"
+  }, {
+    "id": "443205522",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "老宙斯",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=443205522&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=443205522&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=443205522&key=579621905"
+  }, {
+    "id": "538205956",
+    "name": "我喜欢上你时的内心活动（Cover：陈绮贞）",
+    "singer": "青峰拂面",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=538205956&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=538205956&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=538205956&key=579621905"
+  }, {
+    "id": "1319629387",
+    "name": "我喜欢上你时的内心活动（Cover：陈光荣）",
+    "singer": "纸巾Felicity",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=1319629387&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=1319629387&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=1319629387&key=579621905"
+  }, {
+    "id": "509898899",
+    "name": "我喜欢上你时的内心活动",
+    "singer": "张杨龙",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=509898899&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=509898899&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=509898899&key=579621905"
+  }, {
+    "id": "509853257",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "川爷子",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=509853257&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=509853257&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=509853257&key=579621905"
+  }, {
+    "id": "521557343",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "寻池",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=521557343&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=521557343&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=521557343&key=579621905"
+  }, {
+    "id": "556782542",
+    "name": "【翻】我喜欢上你时的内心活动",
+    "singer": "余一",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=556782542&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=556782542&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=556782542&key=579621905"
+  }, {
+    "id": "548223673",
+    "name": "我喜欢上你时的内心活动（Cover：陈绮贞）",
+    "singer": "王思嘉",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=548223673&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=548223673&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=548223673&key=579621905"
+  }, {
+    "id": "529197481",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "玄冥",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=529197481&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=529197481&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=529197481&key=579621905"
+  }, {
+    "id": "542535171",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "木头",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=542535171&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=542535171&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=542535171&key=579621905"
+  }, {
+    "id": "1323112977",
+    "name": "我喜欢上你时的内心活动（Cover：陈绮贞）",
+    "singer": "叶以欢",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=1323112977&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=1323112977&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=1323112977&key=579621905"
+  }, {
+    "id": "1305531266",
+    "name": "我喜欢上你时的内心活动（Cover：陈绮贞）",
+    "singer": "大月",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=1305531266&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=1305531266&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=1305531266&key=579621905"
+  }, {
+    "id": "1308250490",
+    "name": "我喜欢上你时的内心活动（Cover：陈绮贞）",
+    "singer": "万宝路",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=1308250490&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=1308250490&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=1308250490&key=579621905"
+  }, {
+    "id": "479826363",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "尹幸",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=479826363&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=479826363&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=479826363&key=579621905"
+  }, {
+    "id": "503508915",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "迟暮",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=503508915&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=503508915&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=503508915&key=579621905"
+  }, {
+    "id": "515858987",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "璨璨",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=515858987&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=515858987&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=515858987&key=579621905"
+  }, {
+    "id": "479925143",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "MAGGIELUOXUE",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=479925143&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=479925143&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=479925143&key=579621905"
+  }, {
+    "id": "513543047",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "宋立伟",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=513543047&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=513543047&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=513543047&key=579621905"
+  }, {
+    "id": "1306472735",
+    "name": "我喜欢上你时的内心活动（Cover：陈绮贞）",
+    "singer": "Lavinia",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=1306472735&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=1306472735&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=1306472735&key=579621905"
+  }, {
+    "id": "502255957",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "余笙",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=502255957&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=502255957&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=502255957&key=579621905"
+  }, {
+    "id": "506194405",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "MilaX",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=506194405&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=506194405&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=506194405&key=579621905"
+  }, {
+    "id": "862483829",
+    "name": "我喜欢上你时的内心活动（Cover：陈绮贞）",
+    "singer": "李柏惠",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=862483829&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=862483829&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=862483829&key=579621905"
+  }, {
+    "id": "505901758",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "九重Kyu",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=505901758&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=505901758&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=505901758&key=579621905"
+  }, {
+    "id": "534515382",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "柚子Yuzu",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=534515382&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=534515382&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=534515382&key=579621905"
+  }, {
+    "id": "540486614",
+    "name": "我喜欢上你时的内心活动（Cover：陈绮贞）",
+    "singer": "清岚",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=540486614&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=540486614&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=540486614&key=579621905"
+  }, {
+    "id": "552580180",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "麻球",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=552580180&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=552580180&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=552580180&key=579621905"
+  }, {
+    "id": "521070562",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "Vi依萌",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=521070562&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=521070562&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=521070562&key=579621905"
+  }, {
+    "id": "496638936",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "弥安",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=496638936&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=496638936&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=496638936&key=579621905"
+  }, {
+    "id": "516100832",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "弥散_Msa",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=516100832&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=516100832&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=516100832&key=579621905"
+  }, {
+    "id": "1315058687",
+    "name": "我喜欢上你时的内心活动（Cover：陈绮贞）",
+    "singer": "俞梓（陈毅红）",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=1315058687&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=1315058687&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=1315058687&key=579621905"
+  }, {
+    "id": "1316189946",
+    "name": "我喜欢上你时的内心活动（Cover：陈绮贞）",
+    "singer": "聆兮",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=1316189946&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=1316189946&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=1316189946&key=579621905"
+  }, {
+    "id": "557957822",
+    "name": "我喜欢上你时的内心活动（Cover：陈绮贞）",
+    "singer": "覃伊伊_Summer",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=557957822&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=557957822&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=557957822&key=579621905"
+  }, {
+    "id": "564414820",
+    "name": "我喜欢上你时的内心活动（Cover：陈绮贞）",
+    "singer": "正版Devil。",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=564414820&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=564414820&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=564414820&key=579621905"
+  }, {
+    "id": "862915427",
+    "name": "我喜欢上你时的内心活动（Cover：陈绮贞）",
+    "singer": "-MIX二浅-",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=862915427&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=862915427&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=862915427&key=579621905"
+  }, {
+    "id": "473401815",
+    "name": "我喜欢上你时的内心活动（Cover 陈绮贞）",
+    "singer": "晨瑶",
+    "pic": "https://api.bzqll.com/music/netease/pic?id=473401815&key=579621905",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?id=473401815&key=579621905",
+    "url": "https://api.bzqll.com/music/netease/url?id=473401815&key=579621905"
+  }]
+}
