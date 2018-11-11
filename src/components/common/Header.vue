@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="top">
-            <input type="text"/>
+            <input type="text" placeholder="白日梦" />
             <img src="../../assets/images/listen.png"/>
         </div>
         <div class="down">
@@ -39,7 +39,7 @@ export default {
     height: 1rem;
 }
 .top input{
-    width: 80%;
+    width: 72%;
     height: 0.5rem;
     background: url(../../assets/images/search.png)no-repeat;
     background-size: 20px;
@@ -47,6 +47,7 @@ export default {
     box-shadow: 0 0 2px #ddd,1px 0 2px #ddd,2px 0 2px #ddd;
     border:none;
     margin: 10px 0 0 10px;
+    padding-left: 8%;
 }
 .top img{
     width: 0.7rem;

@@ -1,0 +1,805 @@
+{
+  "result": "SUCCESS",
+  "code": 200,
+  "data": [{
+    "id": "k0028fnoi0w",
+    "name": "POP/STARS (2018英雄联盟全球总决赛开场曲)",
+    "singer": "Madison Beer/미연/전소연/Jaira Burns",
+    "publictime": "2018-11-3",
+    "playCount": "1638866",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101004D2pa61A7XRd.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=k0028fnoi0w"
+  }, {
+    "id": "e0028hfvgeh",
+    "name": "NINE PERCENT《TO THE NINES》问候视频",
+    "singer": "NINE PERCENT",
+    "publictime": "2018-11-9",
+    "playCount": "400903",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000002Faa2g0xd2qa.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=e0028hfvgeh"
+  }, {
+    "id": "s0028wdy9hz",
+    "name": "雪落下的声音 (梦想的声音第三季 第2期)",
+    "singer": "林俊杰",
+    "publictime": "2018-11-2",
+    "playCount": "570865",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101003LHd892ymgYv.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=s0028wdy9hz"
+  }, {
+    "id": "j00280de2wp",
+    "name": "那一夜",
+    "singer": "G.E.M. 邓紫棋",
+    "publictime": "2018-11-9",
+    "playCount": "218082",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M102001bOafy1WP0qE.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=j00280de2wp"
+  }, {
+    "id": "g0022q7z0um",
+    "name": "光年之外 (《太空旅客》电影中国区主题曲)",
+    "singer": "G.E.M. 邓紫棋",
+    "publictime": "2016-12-30",
+    "playCount": "8957356",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M10100038AaM2GLWRT.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=g0022q7z0um"
+  }, {
+    "id": "o0028h2sxit",
+    "name": "第28期：于文文聊新歌创作，现场走秀爆料李荣浩趣事 (Live)",
+    "singer": "于文文/见面吧!电台",
+    "publictime": "2018-11-9",
+    "playCount": "1733745",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000002n0Khl2lS9Tf.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=o0028h2sxit"
+  }, {
+    "id": "e0028wqjnr8",
+    "name": "Different Game",
+    "singer": "王嘉尔/Gucci Mane",
+    "publictime": "2018-11-7",
+    "playCount": "371597",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M1010023FYz348Tl5B.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=e0028wqjnr8"
+  }, {
+    "id": "k0027d0o7zx",
+    "name": "卡路里 (《西虹市首富》电影插曲)",
+    "singer": "火箭少女101",
+    "publictime": "2018-7-26",
+    "playCount": "31907265",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M1010015Rurp2Y7662.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=k0027d0o7zx"
+  }, {
+    "id": "v00252dw6i5",
+    "name": "不染 (《香蜜沉沉烬如霜》电视剧主题曲)",
+    "singer": "毛不易",
+    "publictime": "2018-2-11",
+    "playCount": "30351183",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M104000Ura2E13g2gp.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=v00252dw6i5"
+  }, {
+    "id": "w0026urjzlh",
+    "name": "学猫叫",
+    "singer": "小潘潘/小峰峰",
+    "publictime": "2018-6-20",
+    "playCount": "16047682",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101004cEdCp1rXUuB.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=w0026urjzlh"
+  }, {
+    "id": "p0014ilsdrb",
+    "name": "两只老虎",
+    "singer": "儿歌",
+    "publictime": "2014-6-3",
+    "playCount": "44901348",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000000tJcua2e5LUC.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=p0014ilsdrb"
+  }, {
+    "id": "r00270ooj39",
+    "name": "归去来兮 (《双世宠妃2》网络剧片尾曲)",
+    "singer": "叶炫清",
+    "publictime": "2018-10-18",
+    "playCount": "1699942",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101003c6LtY4DVwZz.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=r00270ooj39"
+  }, {
+    "id": "h0028s6af63",
+    "name": "春水积木 (《仙剑奇侠传4》手游概念曲)",
+    "singer": "双笙",
+    "publictime": "2018-11-7",
+    "playCount": "177737",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M102002G7xV71Mpe9j.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=h0028s6af63"
+  }, {
+    "id": "y0027sobcrh",
+    "name": "年少有为",
+    "singer": "李荣浩",
+    "publictime": "2018-8-13",
+    "playCount": "5396220",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M103001P4KnT10mPqA.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=y0027sobcrh"
+  }, {
+    "id": "d0027kess0k",
+    "name": "38度6",
+    "singer": "黑龙",
+    "publictime": "2018-8-27",
+    "playCount": "5430973",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M1010011A2aY3Err9B.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=d0027kess0k"
+  }, {
+    "id": "x00280uxie5",
+    "name": "NINE PERCENT数字专辑《TO THE NINES》预售倒计时1天视频",
+    "singer": "NINE PERCENT",
+    "publictime": "2018-11-8",
+    "playCount": "149296",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000003oEHN0273Jsr.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=x00280uxie5"
+  }, {
+    "id": "p0014qpym55",
+    "name": "葫芦娃 (1)",
+    "singer": "儿歌",
+    "publictime": "2014-6-3",
+    "playCount": "19427679",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000002K23uO15Q4qc.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=p0014qpym55"
+  }, {
+    "id": "a0028leqtvq",
+    "name": "YES or YES",
+    "singer": "TWICE (트와이스)",
+    "publictime": "2018-11-5",
+    "playCount": "192950",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M102004AqZU71LAEmI.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=a0028leqtvq"
+  }, {
+    "id": "l00272ouyn9",
+    "name": "RISE 登峰造极境 (2018 全球总决赛主题曲)",
+    "singer": "英雄联盟",
+    "publictime": "2018-9-26",
+    "playCount": "2897966",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M1010006DeoM2yNnwB.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=l00272ouyn9"
+  }, {
+    "id": "t0014o8obtp",
+    "name": "数鸭子（新）",
+    "singer": "儿歌",
+    "publictime": "2014-6-3",
+    "playCount": "27544067",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000000hr6zP48OtGU.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=t0014o8obtp"
+  }, {
+    "id": "n00147mkwu2",
+    "name": "小手拍拍 (4)",
+    "singer": "儿歌",
+    "publictime": "2014-6-3",
+    "playCount": "16917310",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M0000044bPaA3QnTzJ.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=n00147mkwu2"
+  }, {
+    "id": "i00140c499x",
+    "name": "儿歌串烧合集2",
+    "singer": "儿歌",
+    "publictime": "2014-6-3",
+    "playCount": "33912877",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000002LcvIL0Bh5px.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=i00140c499x"
+  }, {
+    "id": "t0014f66vtq",
+    "name": "拔萝卜",
+    "singer": "儿歌",
+    "publictime": "2014-6-3",
+    "playCount": "17813395",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000000Uwtb33EriEh.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=t0014f66vtq"
+  }, {
+    "id": "m00278v708x",
+    "name": "Way Back Home",
+    "singer": "숀 (SHAUN)",
+    "publictime": "2018-7-23",
+    "playCount": "3764724",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101002H6Pqn1nt5WP.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=m00278v708x"
+  }, {
+    "id": "l0023tkcdjv",
+    "name": "[全场]黄子韬2017PROMISE巡演演唱会澳门站 (Live)",
+    "singer": "黄子韬",
+    "publictime": "2017-5-27",
+    "playCount": "7463008",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101000GhXx63ZmZ1v.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=l0023tkcdjv"
+  }, {
+    "id": "d0026yyzsg8",
+    "name": "隔壁泰山",
+    "singer": "阿里郎",
+    "publictime": "2018-7-9",
+    "playCount": "12266053",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101003hHYCf3VanVd.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=d0026yyzsg8"
+  }, {
+    "id": "u0137m4waun",
+    "name": "香甜水果",
+    "singer": "儿歌",
+    "publictime": "2014-10-18",
+    "playCount": "12490083",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000001k8CgK442KiV.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=u0137m4waun"
+  }, {
+    "id": "q0027ux9ma2",
+    "name": "落",
+    "singer": "艾辰",
+    "publictime": "2018-10-1",
+    "playCount": "1191203",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000003qW4ZP4V9GzP.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=q0027ux9ma2"
+  }, {
+    "id": "j0028yg5owu",
+    "name": "2018张艺兴梦不落雨林/NAMANANA纽约Fan Event (Live)",
+    "singer": "张艺兴",
+    "publictime": "2018-11-8",
+    "playCount": "453930",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101003ZiRR60Ekk50.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=j0028yg5owu"
+  }, {
+    "id": "z00141ofe80",
+    "name": "小苹果 (《老男孩猛龙过江》电影宣传曲)",
+    "singer": "筷子兄弟",
+    "publictime": "2014-5-29",
+    "playCount": "158274495",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000002QPR1I40kKA2.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=z00141ofe80"
+  }, {
+    "id": "c0025c297rz",
+    "name": "体面 (《前任3：再见前任》电影插曲)",
+    "singer": "于文文",
+    "publictime": "2018-1-5",
+    "playCount": "27958561",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M1010023UstE11Uorn.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=c0025c297rz"
+  }, {
+    "id": "f0014h0bm04",
+    "name": "小老鼠上灯台 (兔小贝儿歌)",
+    "singer": "儿歌",
+    "publictime": "2014-6-3",
+    "playCount": "8500432",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000002oLe1O2ne2Ud.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=f0014h0bm04"
+  }, {
+    "id": "z0027n118z6",
+    "name": "倒数",
+    "singer": "G.E.M. 邓紫棋",
+    "publictime": "2018-8-10",
+    "playCount": "6086419",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M103004Czm2I4TMUqw.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=z0027n118z6"
+  }, {
+    "id": "g00253a2tse",
+    "name": "海草舞",
+    "singer": "萧全",
+    "publictime": "2018-1-5",
+    "playCount": "18614887",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M102003L452o0PBkwy.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=g00253a2tse"
+  }, {
+    "id": "b0027xhhrdn",
+    "name": "天地无霜 (《香蜜沉沉烬如霜》电视剧对唱主题曲)",
+    "singer": "杨紫/邓伦",
+    "publictime": "2018-7-31",
+    "playCount": "15060833",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M1010039EhXC1biAJC.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=b0027xhhrdn"
+  }, {
+    "id": "x0028b26mqn",
+    "name": "故长安 (《将夜》古风品质大剧主题曲)",
+    "singer": "张靓颖",
+    "publictime": "2018-10-31",
+    "playCount": "493365",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M102001IfYlF11dqKZ.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=x0028b26mqn"
+  }, {
+    "id": "w0027icbc1y",
+    "name": "Venom (《毒液：致命守护者》电影插曲)",
+    "singer": "Eminem",
+    "publictime": "2018-10-5",
+    "playCount": "554503",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M102002WGtPy3mYE7v.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=w0027icbc1y"
+  }, {
+    "id": "c0028eub430",
+    "name": "第4期：Awaken-F《吸引定律》获点赞一位，冯提莫刘人语甜美开唱",
+    "singer": "由你音乐榜样",
+    "publictime": "2018-11-5",
+    "playCount": "2998597",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101003XJlnY10VEUg.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=c0028eub430"
+  }, {
+    "id": "v0028b5hvif",
+    "name": "breathin",
+    "singer": "Ariana Grande",
+    "publictime": "2018-11-7",
+    "playCount": "86416",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M1010018ium91iOlgS.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=v0028b5hvif"
+  }, {
+    "id": "o0014u4ztkr",
+    "name": "拔萝卜儿歌 (KTV版)",
+    "singer": "儿歌",
+    "publictime": "2014-6-3",
+    "playCount": "23391061",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M0000003et9J1wDezN.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=o0014u4ztkr"
+  }, {
+    "id": "f0028vtkvue",
+    "name": "라비앙로즈 (La Vie en Rose)",
+    "singer": "IZ*ONE (아이즈원)",
+    "publictime": "2018-10-29",
+    "playCount": "597014",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101001qPMwD1peNYe.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=f0028vtkvue"
+  }, {
+    "id": "g00278lgraw",
+    "name": "左手指月 (《香蜜沉沉烬如霜》电视剧片尾曲)",
+    "singer": "萨顶顶",
+    "publictime": "2018-7-24",
+    "playCount": "14975521",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101003LGfEN0UDKRe.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=g00278lgraw"
+  }, {
+    "id": "i00287bstpg",
+    "name": "Airplane pt.2 (Japanese Version)",
+    "singer": "BTS",
+    "publictime": "2018-11-6",
+    "playCount": "106675",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101004CISqy429GtL.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=i00287bstpg"
+  }, {
+    "id": "h0028yux2yp",
+    "name": "梦龙对生命的呐喊：your life is worth living ,always. (Live)",
+    "singer": "Imagine Dragons",
+    "publictime": "2018-11-8",
+    "playCount": "41805",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101000NkQDV0rE2vm.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=h0028yux2yp"
+  }, {
+    "id": "d0027md34sq",
+    "name": "梦不落雨林",
+    "singer": "张艺兴",
+    "publictime": "2018-10-19",
+    "playCount": "2797941",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M103004VpnSU2UDLCK.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=d0027md34sq"
+  }, {
+    "id": "t002783lox1",
+    "name": "从无到有 (《创业时代》电视剧片尾主题曲)",
+    "singer": "毛不易",
+    "publictime": "2018-10-10",
+    "playCount": "1224801",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M1010037BqkO1ghpbY.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=t002783lox1"
+  }, {
+    "id": "f0028ga49ww",
+    "name": "哼唱着创作出《其实其实》，于文文坦白灵感是上帝赠予的礼物~ (Live)",
+    "singer": "见面吧!电台",
+    "publictime": "2018-11-9",
+    "playCount": "33400",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000003ptjHl1AhOvn.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=f0028ga49ww"
+  }, {
+    "id": "q002827iphc",
+    "name": "My Love",
+    "singer": "刘德华",
+    "publictime": "2018-11-5",
+    "playCount": "206489",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101003ZZqeE2udKV7.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=q002827iphc"
+  }, {
+    "id": "o00146j95ne",
+    "name": "小毛驴",
+    "singer": "儿歌",
+    "publictime": "2014-6-3",
+    "playCount": "29480590",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000001z2OZs4TkoSS.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=o00146j95ne"
+  }, {
+    "id": "f00271mx6kb",
+    "name": "精彩才刚刚开始",
+    "singer": "易烊千玺",
+    "publictime": "2018-10-16",
+    "playCount": "2085405",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101002d4PLN0UyKWj.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=f00271mx6kb"
+  }, {
+    "id": "q0028k6eo2t",
+    "name": "RISE 登峰造极境 (Remix) (2018 全球总决赛主题曲)",
+    "singer": "英雄联盟/BOBBY/Mako",
+    "publictime": "2018-10-25",
+    "playCount": "356355",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101000ZHaa4018ai8.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=q0028k6eo2t"
+  }, {
+    "id": "f00220xguur",
+    "name": "Faded",
+    "singer": "Alan Walker/Iselin Solheim",
+    "publictime": "2015-12-3",
+    "playCount": "27754519",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101002Q4uHT1OtHwA.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=f00220xguur"
+  }, {
+    "id": "c00202se5is",
+    "name": "HandClap (《神偷奶爸3》电影宣传曲)",
+    "singer": "Fitz & The Tantrums",
+    "publictime": "2016-6-6",
+    "playCount": "9782125",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M102000UZNpq0Sc8dQ.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=c00202se5is"
+  }, {
+    "id": "t00274ylzi6",
+    "name": "Light",
+    "singer": "火箭少女101",
+    "publictime": "2018-9-25",
+    "playCount": "5006445",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M1020028DRtG4PwEKk.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=t00274ylzi6"
+  }, {
+    "id": "k0028odxwmp",
+    "name": "《音乐Bang!Bang!Bang!》第十期（巅峰人气榜第44期榜单）",
+    "singer": "音乐Bang!Bang!Bang!",
+    "publictime": "2018-11-9",
+    "playCount": "28443",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000003qQCeC2oVCRn.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=k0028odxwmp"
+  }, {
+    "id": "o0027h1xh6x",
+    "name": "最美的遇见 (《凉生，我们可不可以不忧伤》电视剧情感主题曲)",
+    "singer": "徐佳莹",
+    "publictime": "2018-10-15",
+    "playCount": "1289289",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101003XClkF3LjiSE.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=o0027h1xh6x"
+  }, {
+    "id": "k0027nsc6ke",
+    "name": "小了白了兔",
+    "singer": "叶洛洛",
+    "publictime": "2018-9-3",
+    "playCount": "2882002",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M0000039ooS11vmzX1.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=k0027nsc6ke"
+  }, {
+    "id": "e0137cmkvmd",
+    "name": "海底世界",
+    "singer": "儿歌",
+    "publictime": "2015-4-3",
+    "playCount": "9360721",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000001IhEMP1KaYfg.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=e0137cmkvmd"
+  }, {
+    "id": "y0026zvdfpg",
+    "name": "That Girl (歌词版)",
+    "singer": "Olly Murs",
+    "publictime": "2016-11-18",
+    "playCount": "9099069",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000000jDSgc4g7OhQ.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=y0026zvdfpg"
+  }, {
+    "id": "k00289vzbrc",
+    "name": "念念又不忘",
+    "singer": "李荣浩",
+    "publictime": "2018-11-5",
+    "playCount": "327847",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101002LQTR42jq1zc.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=k00289vzbrc"
+  }, {
+    "id": "g00281jzy1n",
+    "name": "寂寞深宫",
+    "singer": "陈瑞",
+    "publictime": "2018-11-10",
+    "playCount": "28088",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000001QId7g18gw3Q.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=g00281jzy1n"
+  }, {
+    "id": "l0014080ljh",
+    "name": "儿歌串烧合集1",
+    "singer": "儿歌",
+    "publictime": "2014-6-3",
+    "playCount": "20847296",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000004GNhH70qPNeV.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=l0014080ljh"
+  }, {
+    "id": "o00246jy1qp",
+    "name": "咿呀咿呀哟",
+    "singer": "儿歌",
+    "publictime": "2017-8-2",
+    "playCount": "1395876",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000002koPDO1y1btT.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=o00246jy1qp"
+  }, {
+    "id": "u00222le4ox",
+    "name": "告白气球",
+    "singer": "周杰伦",
+    "publictime": "2016-10-28",
+    "playCount": "28995903",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101000zvsVL4Bsi25.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=u00222le4ox"
+  }, {
+    "id": "w00149nehhk",
+    "name": "小兔子乖乖 (8)",
+    "singer": "儿歌",
+    "publictime": "2014-6-3",
+    "playCount": "9394219",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000000iYvaY0IyWZc.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=w00149nehhk"
+  }, {
+    "id": "p0022w4yvpo",
+    "name": "凉凉 (影视版) (《三生三世十里桃花》电视剧片尾曲)",
+    "singer": "杨宗纬/张碧晨",
+    "publictime": "2017-1-9",
+    "playCount": "33677679",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101001IQovD2sJ9p0.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=p0022w4yvpo"
+  }, {
+    "id": "d0028n9icym",
+    "name": "NINE PERCENT数字专辑《TO THE NINES》预售2天倒计时视频",
+    "singer": "NINE PERCENT",
+    "publictime": "2018-11-7",
+    "playCount": "76603",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000000PgkRo18TNIN.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=d0028n9icym"
+  }, {
+    "id": "m0018fx6848",
+    "name": "大王叫我来巡山 (《万万没想到：西游篇》喜剧片尾曲)",
+    "singer": "贾乃亮/贾云馨",
+    "publictime": "2015-11-11",
+    "playCount": "58358635",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101002twXVn0yxBfQ.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=m0018fx6848"
+  }, {
+    "id": "u002770mey4",
+    "name": "影响 (《创业时代》电视剧爱情主题曲)",
+    "singer": "陈粒",
+    "publictime": "2018-10-18",
+    "playCount": "441583",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M1010041yRbM4UmQYa.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=u002770mey4"
+  }, {
+    "id": "K00908qoGlg",
+    "name": "需要人陪",
+    "singer": "王力宏",
+    "publictime": "2011-12-15",
+    "playCount": "4727230",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101004Anj7B1bAdRd.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=K00908qoGlg"
+  }, {
+    "id": "t0027joicqq",
+    "name": "光年之外 (金曲捞第二季 第5期)",
+    "singer": "摩登兄弟",
+    "publictime": "2018-8-17",
+    "playCount": "2491151",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101001qVjmp298sJO.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=t0027joicqq"
+  }, {
+    "id": "e0017jjsmpd",
+    "name": "小兔子乖乖",
+    "singer": "贝瓦儿歌",
+    "publictime": "2014-6-3",
+    "playCount": "11703182",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M0000044AYtm16t9k1.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=e0017jjsmpd"
+  }, {
+    "id": "g0027plf6aa",
+    "name": "生而为赢 (《超新星全运会》主题曲)",
+    "singer": "火箭少女101",
+    "publictime": "2018-10-25",
+    "playCount": "497759",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101002dwTyt1lIHZv.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=g0027plf6aa"
+  }, {
+    "id": "b00266lk29f",
+    "name": "最美的期待",
+    "singer": "周笔畅",
+    "publictime": "2018-6-12",
+    "playCount": "3982552",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101004XZ1cX2gTV3p.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=b00266lk29f"
+  }, {
+    "id": "u0028i0unxv",
+    "name": "双世恋人 (《双世宠妃2》网络剧插曲)",
+    "singer": "贺敬轩",
+    "publictime": "2018-11-2",
+    "playCount": "147350",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101003b18f01o6Hbp.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=u0028i0unxv"
+  }, {
+    "id": "l0024d1nlab",
+    "name": "全部都是你",
+    "singer": "Dragon Pig/CLOUD WANG/CNBALLER",
+    "publictime": "2017-6-7",
+    "playCount": "7575104",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101002lfar64LNWRF.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=l0024d1nlab"
+  }, {
+    "id": "t0015lsf9eg",
+    "name": "青春修炼手册",
+    "singer": "TFBOYS",
+    "publictime": "2014-8-18",
+    "playCount": "62763308",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101002LnG2t2f3D3u.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=t0015lsf9eg"
+  }, {
+    "id": "l0013b14upp",
+    "name": "我的天空 (《青春派》电影主题曲|《青春派》电影片尾曲)",
+    "singer": "南征北战NZBZ",
+    "publictime": "2013-11-11",
+    "playCount": "19424186",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000001KkSEa34uHxX.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=l0013b14upp"
+  }, {
+    "id": "a0025v379s8",
+    "name": "Wolves",
+    "singer": "Selena Gomez/Marshmello",
+    "publictime": "2017-11-18",
+    "playCount": "2617171",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101001ywCxi02dPIn.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=a0025v379s8"
+  }, {
+    "id": "z0028oawg2i",
+    "name": "日常",
+    "singer": "乃木坂46",
+    "publictime": "2018-10-31",
+    "playCount": "136860",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M102004Cx9Tq3Kb0sT.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=z0028oawg2i"
+  }, {
+    "id": "x0025b8jts6",
+    "name": "起风了",
+    "singer": "买辣椒也用券",
+    "publictime": "2017-11-28",
+    "playCount": "16128597",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000002ke0VX0alnAt.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=x0025b8jts6"
+  }, {
+    "id": "m00227bxwss",
+    "name": "Something Just Like This (歌词版)",
+    "singer": "Coldplay/The Chainsmokers",
+    "publictime": "2017-2-22",
+    "playCount": "7511371",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000003HCR0r0u5Qkg.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=m00227bxwss"
+  }, {
+    "id": "o0027705yl6",
+    "name": "无情画 (《双世宠妃》第二季片头曲)",
+    "singer": "王呈章",
+    "publictime": "2018-9-27",
+    "playCount": "1836099",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101001BdNSA3TiQxv.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=o0027705yl6"
+  }, {
+    "id": "q00241ukmrk",
+    "name": "Legends Never Die (2017英雄联盟全球总决赛主题曲)",
+    "singer": "英雄联盟",
+    "publictime": "2017-10-18",
+    "playCount": "3248878",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101004AmBTP4Byw9w.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=q00241ukmrk"
+  }, {
+    "id": "s00244on2oh",
+    "name": "The Spectre",
+    "singer": "Alan Walker",
+    "publictime": "2017-9-15",
+    "playCount": "2703463",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101000Lv3HT2hj24y.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=s00244on2oh"
+  }, {
+    "id": "u0017yddcpm",
+    "name": "拔萝卜",
+    "singer": "贝瓦儿歌",
+    "publictime": "2014-6-3",
+    "playCount": "14785347",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M0000021tJhf2y9MZa.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=u0017yddcpm"
+  }, {
+    "id": "z00225lo3st",
+    "name": "说谎 (超强音浪 第8期)",
+    "singer": "薛之谦",
+    "publictime": "2017-2-24",
+    "playCount": "2374690",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101000e9bwD3Y6d0W.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=z00225lo3st"
+  }, {
+    "id": "h0027yyuqfe",
+    "name": "Give Me A Chance",
+    "singer": "张艺兴",
+    "publictime": "2018-10-7",
+    "playCount": "2839572",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101002Gbssu1eIe7e.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=h0027yyuqfe"
+  }, {
+    "id": "g0028xwdox3",
+    "name": "NAMANANA (2018张艺兴梦不落雨林/NAMANANA纽约Fan Event)",
+    "singer": "张艺兴",
+    "publictime": "2018-11-8",
+    "playCount": "69920",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101000l8Nz33zEqDO.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=g0028xwdox3"
+  }, {
+    "id": "d0025vb2qnq",
+    "name": "拥抱你离去",
+    "singer": "张北北",
+    "publictime": "2017-11-28",
+    "playCount": "9013059",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M1010022oL3z1FmpgA.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=d0025vb2qnq"
+  }, {
+    "id": "d001514ub6z",
+    "name": "小鸡小鸡",
+    "singer": "王蓉",
+    "publictime": "2014-10-29",
+    "playCount": "47660729",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M0000041Caon1LGPza.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=d001514ub6z"
+  }, {
+    "id": "j0014aeyd2k",
+    "name": "爱我你就抱抱我 (1)",
+    "singer": "儿歌",
+    "publictime": "2014-6-3",
+    "playCount": "11034134",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000003iCy9t3c04m0.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=j0014aeyd2k"
+  }, {
+    "id": "y00257obhi3",
+    "name": "说散就散 (《前任3：再见前任》电影主题曲)",
+    "singer": "袁娅维",
+    "publictime": "2017-12-12",
+    "playCount": "19255751",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101002CuQh84Q16vk.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=y00257obhi3"
+  }, {
+    "id": "n0023hcyvcq",
+    "name": "世界第一等 (《黑金》电影主题曲)",
+    "singer": "刘德华",
+    "publictime": "2011-8-25",
+    "playCount": "788407",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101002c5guI2MoPRl.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=n0023hcyvcq"
+  }, {
+    "id": "t0027ar0von",
+    "name": "一个人去巴黎",
+    "singer": "董又霖",
+    "publictime": "2018-8-8",
+    "playCount": "1303454",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M102000DJHs42tdPln.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=t0027ar0von"
+  }, {
+    "id": "r0022s01ggu",
+    "name": "小兔子乖乖",
+    "singer": "儿歌",
+    "publictime": "2013-9-28",
+    "playCount": "6961570",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M000003XUZCn3V9exB.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=r0022s01ggu"
+  }, {
+    "id": "z0028lltd7n",
+    "name": "我行即我道 (《新天龙八部》端游主题曲)",
+    "singer": "摩登兄弟",
+    "publictime": "2018-11-2",
+    "playCount": "233430",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101003dSBWz024xoy.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=z0028lltd7n"
+  }, {
+    "id": "j0025ethmfg",
+    "name": "LOVE SCENARIO (사랑을 했다)",
+    "singer": "iKON (아이콘)",
+    "publictime": "2018-1-25",
+    "playCount": "9452270",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M1030031LH8T06w5vz.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=j0025ethmfg"
+  }, {
+    "id": "m0028kkwjbf",
+    "name": "百年树木",
+    "singer": "张敬轩",
+    "publictime": "2018-11-6",
+    "playCount": "72063",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101002u4E7S1wDxts.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=m0028kkwjbf"
+  }, {
+    "id": "h00110uh6bk",
+    "name": "逆战 (《逆战》枪战网游主题曲)",
+    "singer": "张杰",
+    "publictime": "2012-9-3",
+    "playCount": "36256128",
+    "pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101003xUXv6362HwP.jpg",
+    "url": "https://api.bzqll.com/music/tencent/mvUrl?key=579621905&id=h00110uh6bk"
+  }]
+}

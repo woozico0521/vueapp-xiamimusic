@@ -5,19 +5,36 @@
             <p>更多 <span>&gt;</span></p>
         </div>
         <ul class="music-list">
-            <li v-for="music in musicList" :key="music.id">
+            <li v-for="music in musicList" :key="music.id" @click="goListDetail(music.id)">
                 <img :src="music.coverImgUrl" alt="">
                 <p>{{music.title}}</p>
             </li>
         </ul>
 
-        <div class="title">
+
+
+
+
+
+        <!-- <div class="title">
             <h4>新歌新碟</h4>
             <p>更多 <span>&gt;</span></p>
         </div>
         <ul class="music-album">
             <li v-for="album in albumList" :key="album.id">
                 <img src="" alt="">
+            </li>
+        </ul> -->
+
+
+
+        <div class="title">
+            <h4>热门MV</h4>
+            <p>更多 <span>&gt;</span></p>
+        </div>
+        <ul class="music-video">
+            <li v-for="video in videoList" :key="video.id">
+                <video :src="video.url" controls></video>
             </li>
         </ul>
     </div>
@@ -29,13 +46,13 @@ export default {
     data(){
         return{
             musicList:[],
-            albumList:[],
+            videoList:[],
         }
     },
     methods:{
         dataLoad(){
             let url = '/static/data/hotsonglist.json'
-            let url2 = '/static/data/newmusic.json'
+            let url2 = '/static/data/video.json'
             Axios.get(url).then((res)=>{
                 let list = res.data.data;
                 this.musicList = list.slice(0,6);
@@ -45,12 +62,15 @@ export default {
             })
 
             Axios.get(url2).then((res)=>{
-                let list = res.data.songlist;
-                //this.musicList = list.slice(0,6);
+                let list = res.data.data
+                this.videoList = list.slice(0,6);
                 console.log(list);
             }).catch(()=>{
                 alert('请求失败')
             })
+        },
+        goListDetail(musicId){
+            this.$router.push('/find/musicDetail/'+musicId)
         }
     },
     mounted(){
@@ -67,4 +87,8 @@ export default {
 .music-list li{width: 30%; height: 3rem;}
 .music-list li img{width: 100%;}
 .music-list li p{width: 100%;font-weight: bold;color: #666;line-height: 0.3rem;margin-top:0.2rem;height: 0.6rem;overflow: hidden;text-overflow:ellipsis;display: -webkit-box;-webkit-line-clamp: 2;-webkit-box-orient: vertical;}
+
+.music-video{width: 100%;display: flex;flex-wrap: wrap;justify-content: space-around;}
+.music-video li{width: 40%;}
+.music-video li video{width: 100%;}
 </style>
