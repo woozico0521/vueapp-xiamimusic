@@ -1,0 +1,307 @@
+{
+  "result": "SUCCESS",
+  "code": 200,
+  "data": {
+    "id": "5303428859",
+    "title": "Psytrance · 游离迷失的碎拍",
+    "desc": "Psytrance也叫做&#160;Psychedelic&#160;trance,&#160;是一种电子音乐的流派。在90年代早期，&#160;它主要从Goa&#160;trance发展而来，并逐步进入主流音乐的范围。Planet&#160;Dog&#160;record&#160;这个厂牌下的Timeshard&#160;和&#160;Eat&#160;Static等被认为是对其最有影响力的Goa&#160;Trance音乐家。最早的纯Psytrance&#160;来自于&#160;Dragonfly&#160;Records这个厂牌下的音乐艺人。<br><br>Psytrance音乐的速度通常较快，一般在135到150&#160;BPM（&#160;beat&#160;per&#160;minute&#160;拍每分钟）Psytrance强调通过音乐带来创造一种独特的氛围，而给人带来独特的精神体验。<br><br>在制作上，Psytrance通常较多地使用软件采样器，VST插件，软件音序器等，而不象它的前生Goa&#160;trance，较多使用硬件合成器。",
+    "author": "May〃",
+    "songnum": "42",
+    "logo": "http://p.qpic.cn/music_cover/PJrGzQib7nia43112ibFrSia1LRO2EP4Diaeeq3Gicjia7MZOknNnMlHzluUQ/300?n=1",
+    "songs": [{
+      "id": "001awo052Gnask",
+      "name": "Haunted House",
+      "singer": "Interactive Noise",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001awo052Gnask&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001awo052Gnask&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001awo052Gnask&key=579621905"
+    }, {
+      "id": "0016iWsQ0Vx63Z",
+      "name": "Revelation",
+      "singer": "Interactive Noise",
+      "url": "https://api.bzqll.com/music/tencent/url?id=0016iWsQ0Vx63Z&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=0016iWsQ0Vx63Z&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=0016iWsQ0Vx63Z&key=579621905"
+    }, {
+      "id": "000QwzHJ2lmbiZ",
+      "name": "Ancient Queen",
+      "singer": "Mariano Ballejos",
+      "url": "https://api.bzqll.com/music/tencent/url?id=000QwzHJ2lmbiZ&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=000QwzHJ2lmbiZ&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=000QwzHJ2lmbiZ&key=579621905"
+    }, {
+      "id": "004WEn7p2vc0cg",
+      "name": "Energy from the Cosmos",
+      "singer": "Vuchur",
+      "url": "https://api.bzqll.com/music/tencent/url?id=004WEn7p2vc0cg&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=004WEn7p2vc0cg&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=004WEn7p2vc0cg&key=579621905"
+    }, {
+      "id": "002SQFoi0F19J7",
+      "name": "Three Triangles",
+      "singer": "Hardwell",
+      "url": "https://api.bzqll.com/music/tencent/url?id=002SQFoi0F19J7&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=002SQFoi0F19J7&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=002SQFoi0F19J7&key=579621905"
+    }, {
+      "id": "002SwCIi02rAcw",
+      "name": "Lose Yourself",
+      "singer": "Unseen Dimensions",
+      "url": "https://api.bzqll.com/music/tencent/url?id=002SwCIi02rAcw&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=002SwCIi02rAcw&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=002SwCIi02rAcw&key=579621905"
+    }, {
+      "id": "001wZ5i23GuycA",
+      "name": "Experimental Game(Re-Design 2017)",
+      "singer": "Symphonix",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001wZ5i23GuycA&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001wZ5i23GuycA&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001wZ5i23GuycA&key=579621905"
+    }, {
+      "id": "002DyYS71uBlzy",
+      "name": "He.art",
+      "singer": "Astrix",
+      "url": "https://api.bzqll.com/music/tencent/url?id=002DyYS71uBlzy&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=002DyYS71uBlzy&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=002DyYS71uBlzy&key=579621905"
+    }, {
+      "id": "0031p69C2G4SW9",
+      "name": "Power Dream",
+      "singer": "Titans",
+      "url": "https://api.bzqll.com/music/tencent/url?id=0031p69C2G4SW9&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=0031p69C2G4SW9&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=0031p69C2G4SW9&key=579621905"
+    }, {
+      "id": "000RMvtq2Tj7a8",
+      "name": "Vision Quest",
+      "singer": "Mindbenderz",
+      "url": "https://api.bzqll.com/music/tencent/url?id=000RMvtq2Tj7a8&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=000RMvtq2Tj7a8&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=000RMvtq2Tj7a8&key=579621905"
+    }, {
+      "id": "002Viwkf25tOLp",
+      "name": "From The Deep",
+      "singer": "Synergic",
+      "url": "https://api.bzqll.com/music/tencent/url?id=002Viwkf25tOLp&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=002Viwkf25tOLp&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=002Viwkf25tOLp&key=579621905"
+    }, {
+      "id": "004TpCOZ3DsiXD",
+      "name": "Be Square",
+      "singer": "3 Of Life",
+      "url": "https://api.bzqll.com/music/tencent/url?id=004TpCOZ3DsiXD&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=004TpCOZ3DsiXD&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=004TpCOZ3DsiXD&key=579621905"
+    }, {
+      "id": "001CPwtS3Q2gwa",
+      "name": "Sexual Distortion",
+      "singer": "Symphonix",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001CPwtS3Q2gwa&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001CPwtS3Q2gwa&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001CPwtS3Q2gwa&key=579621905"
+    }, {
+      "id": "002zVSnV0tsFi8",
+      "name": "Apollo 13",
+      "singer": "Zyce",
+      "url": "https://api.bzqll.com/music/tencent/url?id=002zVSnV0tsFi8&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=002zVSnV0tsFi8&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=002zVSnV0tsFi8&key=579621905"
+    }, {
+      "id": "002QVdoM0PO8vh",
+      "name": "Onironauta",
+      "singer": "Dual Vision",
+      "url": "https://api.bzqll.com/music/tencent/url?id=002QVdoM0PO8vh&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=002QVdoM0PO8vh&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=002QVdoM0PO8vh&key=579621905"
+    }, {
+      "id": "002ga8kB32QzIX",
+      "name": "Humanity",
+      "singer": "Phanatic",
+      "url": "https://api.bzqll.com/music/tencent/url?id=002ga8kB32QzIX&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=002ga8kB32QzIX&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=002ga8kB32QzIX&key=579621905"
+    }, {
+      "id": "002ijsob1E9QBc",
+      "name": "Awakening",
+      "singer": "Shivatree",
+      "url": "https://api.bzqll.com/music/tencent/url?id=002ijsob1E9QBc&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=002ijsob1E9QBc&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=002ijsob1E9QBc&key=579621905"
+    }, {
+      "id": "003ZD0O52EnVNg",
+      "name": "Insert Memory",
+      "singer": "Krunch",
+      "url": "https://api.bzqll.com/music/tencent/url?id=003ZD0O52EnVNg&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=003ZD0O52EnVNg&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=003ZD0O52EnVNg&key=579621905"
+    }, {
+      "id": "000t6iVF4LPCLg",
+      "name": "Deja Vu",
+      "singer": "Ekahal",
+      "url": "https://api.bzqll.com/music/tencent/url?id=000t6iVF4LPCLg&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=000t6iVF4LPCLg&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=000t6iVF4LPCLg&key=579621905"
+    }, {
+      "id": "0028zWy02IVbRa",
+      "name": "Valhalla(Original Mix)",
+      "singer": "Split & Jaxta",
+      "url": "https://api.bzqll.com/music/tencent/url?id=0028zWy02IVbRa&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=0028zWy02IVbRa&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=0028zWy02IVbRa&key=579621905"
+    }, {
+      "id": "001HvIcd22Q0Zj",
+      "name": "Messiah(Original Mix)",
+      "singer": "Contiez",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001HvIcd22Q0Zj&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001HvIcd22Q0Zj&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001HvIcd22Q0Zj&key=579621905"
+    }, {
+      "id": "00355ElN41hP7x",
+      "name": "Dissolved(Original Mix)",
+      "singer": "Earthspace",
+      "url": "https://api.bzqll.com/music/tencent/url?id=00355ElN41hP7x&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=00355ElN41hP7x&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=00355ElN41hP7x&key=579621905"
+    }, {
+      "id": "003cj8vx4S7iDi",
+      "name": "Monks",
+      "singer": "Berg",
+      "url": "https://api.bzqll.com/music/tencent/url?id=003cj8vx4S7iDi&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=003cj8vx4S7iDi&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=003cj8vx4S7iDi&key=579621905"
+    }, {
+      "id": "001moJVJ49vDIf",
+      "name": "Banshee(Glitch Remix)",
+      "singer": "Christopher Lawrence",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001moJVJ49vDIf&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001moJVJ49vDIf&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001moJVJ49vDIf&key=579621905"
+    }, {
+      "id": "000p4d010YofNW",
+      "name": "Toxic",
+      "singer": "Cosmic Tone",
+      "url": "https://api.bzqll.com/music/tencent/url?id=000p4d010YofNW&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=000p4d010YofNW&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=000p4d010YofNW&key=579621905"
+    }, {
+      "id": "004514n039UBrh",
+      "name": "Human Eye",
+      "singer": "Suntree",
+      "url": "https://api.bzqll.com/music/tencent/url?id=004514n039UBrh&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=004514n039UBrh&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=004514n039UBrh&key=579621905"
+    }, {
+      "id": "003ullR00GthAV",
+      "name": "Just Another Freak",
+      "singer": "Sonic Species",
+      "url": "https://api.bzqll.com/music/tencent/url?id=003ullR00GthAV&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=003ullR00GthAV&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=003ullR00GthAV&key=579621905"
+    }, {
+      "id": "004Hm9kl0gg0I3",
+      "name": "Paranoia(Side Effects Remix)",
+      "singer": "Side Effects",
+      "url": "https://api.bzqll.com/music/tencent/url?id=004Hm9kl0gg0I3&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=004Hm9kl0gg0I3&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=004Hm9kl0gg0I3&key=579621905"
+    }, {
+      "id": "003iv6sl276ktU",
+      "name": "Progress(Original Mix)",
+      "singer": "Sequence",
+      "url": "https://api.bzqll.com/music/tencent/url?id=003iv6sl276ktU&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=003iv6sl276ktU&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=003iv6sl276ktU&key=579621905"
+    }, {
+      "id": "0028dWcp4WSHXn",
+      "name": "Lost in this Moment",
+      "singer": "Symphonix",
+      "url": "https://api.bzqll.com/music/tencent/url?id=0028dWcp4WSHXn&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=0028dWcp4WSHXn&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=0028dWcp4WSHXn&key=579621905"
+    }, {
+      "id": "001uvMOr2t83Uc",
+      "name": "Beef Transmitter",
+      "singer": "Atomgrinder",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001uvMOr2t83Uc&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001uvMOr2t83Uc&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001uvMOr2t83Uc&key=579621905"
+    }, {
+      "id": "0020g9LN463Yr4",
+      "name": "D Sharp(Album Mix)",
+      "singer": "No Comment",
+      "url": "https://api.bzqll.com/music/tencent/url?id=0020g9LN463Yr4&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=0020g9LN463Yr4&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=0020g9LN463Yr4&key=579621905"
+    }, {
+      "id": "001Fcg7C1tNnCR",
+      "name": "Acid Farm(Edit)",
+      "singer": "Vertical Mode",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001Fcg7C1tNnCR&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001Fcg7C1tNnCR&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001Fcg7C1tNnCR&key=579621905"
+    }, {
+      "id": "004VKNSB4FyXkw",
+      "name": "Make Noises",
+      "singer": "Viking Trance",
+      "url": "https://api.bzqll.com/music/tencent/url?id=004VKNSB4FyXkw&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=004VKNSB4FyXkw&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=004VKNSB4FyXkw&key=579621905"
+    }, {
+      "id": "000HmnaO00GCza",
+      "name": "Reborn",
+      "singer": "Aura Vortex",
+      "url": "https://api.bzqll.com/music/tencent/url?id=000HmnaO00GCza&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=000HmnaO00GCza&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=000HmnaO00GCza&key=579621905"
+    }, {
+      "id": "001jQ0bO26ijqK",
+      "name": "Birdman(Original Mix)",
+      "singer": "Funky Dragon",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001jQ0bO26ijqK&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001jQ0bO26ijqK&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001jQ0bO26ijqK&key=579621905"
+    }, {
+      "id": "003EHuXP45SbG2",
+      "name": "Volcano(Original Mix)",
+      "singer": "Aura Vortex",
+      "url": "https://api.bzqll.com/music/tencent/url?id=003EHuXP45SbG2&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=003EHuXP45SbG2&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=003EHuXP45SbG2&key=579621905"
+    }, {
+      "id": "0020g6mO2uPVBl",
+      "name": "Talking with U.F.O's",
+      "singer": "Mad Mac",
+      "url": "https://api.bzqll.com/music/tencent/url?id=0020g6mO2uPVBl&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=0020g6mO2uPVBl&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=0020g6mO2uPVBl&key=579621905"
+    }, {
+      "id": "004abuqu3TY3Cn",
+      "name": "Freedom",
+      "singer": "U-Recken",
+      "url": "https://api.bzqll.com/music/tencent/url?id=004abuqu3TY3Cn&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=004abuqu3TY3Cn&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=004abuqu3TY3Cn&key=579621905"
+    }, {
+      "id": "000z6WE708ITop",
+      "name": "Gaia",
+      "singer": "Shake",
+      "url": "https://api.bzqll.com/music/tencent/url?id=000z6WE708ITop&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=000z6WE708ITop&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=000z6WE708ITop&key=579621905"
+    }, {
+      "id": "004GvBfm3k819l",
+      "name": "A Necessary Tool",
+      "singer": "Ovnimoon",
+      "url": "https://api.bzqll.com/music/tencent/url?id=004GvBfm3k819l&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=004GvBfm3k819l&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=004GvBfm3k819l&key=579621905"
+    }, {
+      "id": "001MM62V1lVv9R",
+      "name": "New World Order",
+      "singer": "Morten Granau",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001MM62V1lVv9R&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001MM62V1lVv9R&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001MM62V1lVv9R&key=579621905"
+    }]
+  }
+}

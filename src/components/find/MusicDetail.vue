@@ -66,7 +66,7 @@ export default {
     },
     mounted(){
         let url1 = API_PROXY + "https://api.bzqll.com/music/tencent/songList?key=579621905&id=" + this.$route.params.musicId + ".json";
-        let url2 = '/static/data/musicdetail'
+        //let url2 = '/static/data/musicdetail' + this.$route.params.musicId + '.json';//内置json
         Axios.get(url1).then((res)=>{
             this.musicDetail = res.data.data;
             let bg = res.data.data.logo;

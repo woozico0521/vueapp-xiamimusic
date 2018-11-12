@@ -35,6 +35,7 @@
         <ul class="music-video">
             <li v-for="video in videoList" :key="video.id">
                 <video :src="video.url" controls></video>
+                
             </li>
         </ul>
     </div>
@@ -63,7 +64,7 @@ export default {
 
             Axios.get(url2).then((res)=>{
                 let list = res.data.data
-                this.videoList = list.slice(0,6);
+                this.videoList = list.slice(0,7);
                 //console.log(list);
             }).catch(()=>{
                 alert('请求失败')
@@ -88,7 +89,10 @@ export default {
 .music-list li img{width: 100%;}
 .music-list li p{width: 100%;font-weight: bold;color: #666;line-height: 0.3rem;margin-top:0.2rem;height: 0.6rem;overflow: hidden;text-overflow:ellipsis;display: -webkit-box;-webkit-line-clamp: 2;-webkit-box-orient: vertical;}
 
-.music-video{width: 100%;display: flex;flex-wrap: wrap;justify-content: space-around;}
-.music-video li{width: 40%;}
+.music-video{width: 90%;display: flex;flex-wrap: wrap;justify-content: space-between;margin:0 5%;}
+.music-video li{width: 45%;}
 .music-video li video{width: 100%;}
+.music-video li video::-webkit-media-controls-overlay-play-button{width: 100px;}
+
+.music-video li:first-child{width: 100%;}
 </style>

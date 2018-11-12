@@ -1,0 +1,363 @@
+{
+  "result": "SUCCESS",
+  "code": 200,
+  "data": {
+    "id": "3662381357",
+    "title": "浪漫的醉人情调 &#8226; Fusion Jazz",
+    "desc": "就是因为她你喜欢爵士乐所以我也深深的爱上了爵士乐，在那个夜晚，与她在烛光、红酒的映衬下，柔美、舒缓、经典的爵士乐在我俩耳边回旋，彼此倾述情感，那个画面美极了。一切在这一刻都变得浪漫、美好了。所以极其推荐这张歌单。在此，对心仪已久的那个ta说一声：偶耐你！！",
+    "author": "风少",
+    "songnum": "50",
+    "logo": "http://p.qpic.cn/music_cover/llTQ9l2AeicK2OLIORnsUdgGsYFM8zLzibO6E9AgEEl8c78F75vokWDw/300?n=1",
+    "songs": [{
+      "id": "001td2MX1rzbMD",
+      "name": "Greensleeves",
+      "singer": "Gregg Karukas",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001td2MX1rzbMD&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001td2MX1rzbMD&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001td2MX1rzbMD&key=579621905"
+    }, {
+      "id": "002e6WL82unDMn",
+      "name": "Sola Sistim",
+      "singer": "Underworld",
+      "url": "https://api.bzqll.com/music/tencent/url?id=002e6WL82unDMn&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=002e6WL82unDMn&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=002e6WL82unDMn&key=579621905"
+    }, {
+      "id": "004JoDvN4GBWPz",
+      "name": "Escape",
+      "singer": "Flora Purim",
+      "url": "https://api.bzqll.com/music/tencent/url?id=004JoDvN4GBWPz&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=004JoDvN4GBWPz&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=004JoDvN4GBWPz&key=579621905"
+    }, {
+      "id": "00315RFn09e7WU",
+      "name": "You Are My Heart",
+      "singer": "Flora Purim",
+      "url": "https://api.bzqll.com/music/tencent/url?id=00315RFn09e7WU&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=00315RFn09e7WU&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=00315RFn09e7WU&key=579621905"
+    }, {
+      "id": "003uLaR60KrHrc",
+      "name": "Change of the Guard",
+      "singer": "Kamasi Washington",
+      "url": "https://api.bzqll.com/music/tencent/url?id=003uLaR60KrHrc&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=003uLaR60KrHrc&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=003uLaR60KrHrc&key=579621905"
+    }, {
+      "id": "002OOTAm23jfpG",
+      "name": "Have I Never",
+      "singer": "A Few Good Men",
+      "url": "https://api.bzqll.com/music/tencent/url?id=002OOTAm23jfpG&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=002OOTAm23jfpG&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=002OOTAm23jfpG&key=579621905"
+    }, {
+      "id": "000MVxcd0qaLAf",
+      "name": "The Magic And Beauty Of Sedona",
+      "singer": "Ancient Brotherhood",
+      "url": "https://api.bzqll.com/music/tencent/url?id=000MVxcd0qaLAf&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=000MVxcd0qaLAf&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=000MVxcd0qaLAf&key=579621905"
+    }, {
+      "id": "004073ai2fiYKy",
+      "name": "seiren",
+      "singer": "Mouse On The Keys",
+      "url": "https://api.bzqll.com/music/tencent/url?id=004073ai2fiYKy&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=004073ai2fiYKy&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=004073ai2fiYKy&key=579621905"
+    }, {
+      "id": "003t0wWE1AOvSD",
+      "name": "In All My Wildest Dreams",
+      "singer": "Joe Sample",
+      "url": "https://api.bzqll.com/music/tencent/url?id=003t0wWE1AOvSD&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=003t0wWE1AOvSD&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=003t0wWE1AOvSD&key=579621905"
+    }, {
+      "id": "0004TRwl1Kks3W",
+      "name": "Blue Kiss",
+      "singer": "Chuck Loeb",
+      "url": "https://api.bzqll.com/music/tencent/url?id=0004TRwl1Kks3W&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=0004TRwl1Kks3W&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=0004TRwl1Kks3W&key=579621905"
+    }, {
+      "id": "0045XPJI0LVKbJ",
+      "name": "Bright Size Life",
+      "singer": "Pat Metheny",
+      "url": "https://api.bzqll.com/music/tencent/url?id=0045XPJI0LVKbJ&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=0045XPJI0LVKbJ&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=0045XPJI0LVKbJ&key=579621905"
+    }, {
+      "id": "000Qt1p81twcxj",
+      "name": "Tears In Heaven",
+      "singer": "Jeff Berlin",
+      "url": "https://api.bzqll.com/music/tencent/url?id=000Qt1p81twcxj&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=000Qt1p81twcxj&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=000Qt1p81twcxj&key=579621905"
+    }, {
+      "id": "001ZIyPh4IB1qt",
+      "name": "High Life",
+      "singer": "Dave Weckl Band",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001ZIyPh4IB1qt&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001ZIyPh4IB1qt&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001ZIyPh4IB1qt&key=579621905"
+    }, {
+      "id": "002oBQeZ3XTh7j",
+      "name": "Slow Dance",
+      "singer": "Ken Navarro",
+      "url": "https://api.bzqll.com/music/tencent/url?id=002oBQeZ3XTh7j&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=002oBQeZ3XTh7j&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=002oBQeZ3XTh7j&key=579621905"
+    }, {
+      "id": "004B5Ke84Lvzms",
+      "name": "Morning View",
+      "singer": "Greg Howe",
+      "url": "https://api.bzqll.com/music/tencent/url?id=004B5Ke84Lvzms&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=004B5Ke84Lvzms&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=004B5Ke84Lvzms&key=579621905"
+    }, {
+      "id": "002Cz51I3cCmbR",
+      "name": "I'll Make Love To You",
+      "singer": "Richard Elliot",
+      "url": "https://api.bzqll.com/music/tencent/url?id=002Cz51I3cCmbR&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=002Cz51I3cCmbR&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=002Cz51I3cCmbR&key=579621905"
+    }, {
+      "id": "001Ll1uw3k3zyt",
+      "name": "You're Everything",
+      "singer": "Chick Corea/Return To Forever",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001Ll1uw3k3zyt&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001Ll1uw3k3zyt&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001Ll1uw3k3zyt&key=579621905"
+    }, {
+      "id": "002fvrbn1Mp17s",
+      "name": "Return To Forever",
+      "singer": "Chick Corea",
+      "url": "https://api.bzqll.com/music/tencent/url?id=002fvrbn1Mp17s&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=002fvrbn1Mp17s&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=002fvrbn1Mp17s&key=579621905"
+    }, {
+      "id": "004byZ061SME59",
+      "name": "Confessions",
+      "singer": "BADBADNOTGOOD/Leland Whitty",
+      "url": "https://api.bzqll.com/music/tencent/url?id=004byZ061SME59&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=004byZ061SME59&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=004byZ061SME59&key=579621905"
+    }, {
+      "id": "000MC9IW33lcJR",
+      "name": "Plan B",
+      "singer": "Dennis Chambers",
+      "url": "https://api.bzqll.com/music/tencent/url?id=000MC9IW33lcJR&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=000MC9IW33lcJR&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=000MC9IW33lcJR&key=579621905"
+    }, {
+      "id": "0004HZkr2qsbE9",
+      "name": "Morning Delight",
+      "singer": "T-Square",
+      "url": "https://api.bzqll.com/music/tencent/url?id=0004HZkr2qsbE9&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=0004HZkr2qsbE9&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=0004HZkr2qsbE9&key=579621905"
+    }, {
+      "id": "003Tjhef1nMhir",
+      "name": "Cause We've Ended As Lovers",
+      "singer": "Jeff Beck",
+      "url": "https://api.bzqll.com/music/tencent/url?id=003Tjhef1nMhir&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=003Tjhef1nMhir&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=003Tjhef1nMhir&key=579621905"
+    }, {
+      "id": "002bkmP12XXjQ1",
+      "name": "Carrying You",
+      "singer": "Larry Carlton",
+      "url": "https://api.bzqll.com/music/tencent/url?id=002bkmP12XXjQ1&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=002bkmP12XXjQ1&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=002bkmP12XXjQ1&key=579621905"
+    }, {
+      "id": "001DWseh2DPxtH",
+      "name": "It's Always Been You",
+      "singer": "Warren Hill",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001DWseh2DPxtH&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001DWseh2DPxtH&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001DWseh2DPxtH&key=579621905"
+    }, {
+      "id": "002o6na91CK2A4",
+      "name": "Hey Jude",
+      "singer": "Warren Hill",
+      "url": "https://api.bzqll.com/music/tencent/url?id=002o6na91CK2A4&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=002o6na91CK2A4&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=002o6na91CK2A4&key=579621905"
+    }, {
+      "id": "001hUgPD3zHIxr",
+      "name": "Whatcha See Is Whatcha Get",
+      "singer": "The John Scofield Band",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001hUgPD3zHIxr&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001hUgPD3zHIxr&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001hUgPD3zHIxr&key=579621905"
+    }, {
+      "id": "000p4xpq1I2V6M",
+      "name": "Wonderland",
+      "singer": "Paul Hardcastle",
+      "url": "https://api.bzqll.com/music/tencent/url?id=000p4xpq1I2V6M&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=000p4xpq1I2V6M&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=000p4xpq1I2V6M&key=579621905"
+    }, {
+      "id": "002eikBG1NV7kM",
+      "name": "Lifetime",
+      "singer": "Paul Hardcastle",
+      "url": "https://api.bzqll.com/music/tencent/url?id=002eikBG1NV7kM&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=002eikBG1NV7kM&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=002eikBG1NV7kM&key=579621905"
+    }, {
+      "id": "001vlEnH2W1FlF",
+      "name": "SAY IT AGAIN",
+      "singer": "伊東たけし",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001vlEnH2W1FlF&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001vlEnH2W1FlF&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001vlEnH2W1FlF&key=579621905"
+    }, {
+      "id": "000CUHxN4Aw735",
+      "name": "Stitched Up",
+      "singer": "Herbie Hancock",
+      "url": "https://api.bzqll.com/music/tencent/url?id=000CUHxN4Aw735&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=000CUHxN4Aw735&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=000CUHxN4Aw735&key=579621905"
+    }, {
+      "id": "001eQZyJ2VyL8L",
+      "name": "More Than Lemonade",
+      "singer": "T-Square",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001eQZyJ2VyL8L&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001eQZyJ2VyL8L&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001eQZyJ2VyL8L&key=579621905"
+    }, {
+      "id": "003VgeB81KmxzF",
+      "name": "The Game Of Love",
+      "singer": "Santana",
+      "url": "https://api.bzqll.com/music/tencent/url?id=003VgeB81KmxzF&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=003VgeB81KmxzF&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=003VgeB81KmxzF&key=579621905"
+    }, {
+      "id": "001pqJjM0o5yTq",
+      "name": "Hippies On A Corner",
+      "singer": "Joe Sample",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001pqJjM0o5yTq&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001pqJjM0o5yTq&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001pqJjM0o5yTq&key=579621905"
+    }, {
+      "id": "003ujo5R0VseOX",
+      "name": "Listen",
+      "singer": "Chuck Loeb",
+      "url": "https://api.bzqll.com/music/tencent/url?id=003ujo5R0VseOX&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=003ujo5R0VseOX&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=003ujo5R0VseOX&key=579621905"
+    }, {
+      "id": "001n4qBo0Gixby",
+      "name": "Just My Imagination",
+      "singer": "Dianne Reeves",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001n4qBo0Gixby&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001n4qBo0Gixby&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001n4qBo0Gixby&key=579621905"
+    }, {
+      "id": "001TvReE4OWyha",
+      "name": "How Different",
+      "singer": "Sophie Zelmani",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001TvReE4OWyha&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001TvReE4OWyha&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001TvReE4OWyha&key=579621905"
+    }, {
+      "id": "003bZRf14Jdqmw",
+      "name": "Crazy",
+      "singer": "Chantal Chamberland",
+      "url": "https://api.bzqll.com/music/tencent/url?id=003bZRf14Jdqmw&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=003bZRf14Jdqmw&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=003bZRf14Jdqmw&key=579621905"
+    }, {
+      "id": "000N8ogf46sZWa",
+      "name": "Don't Speak",
+      "singer": "Anna Maria Jopek",
+      "url": "https://api.bzqll.com/music/tencent/url?id=000N8ogf46sZWa&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=000N8ogf46sZWa&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=000N8ogf46sZWa&key=579621905"
+    }, {
+      "id": "0012PhU42rNm5y",
+      "name": "Lovely Morning",
+      "singer": "Room Eleven",
+      "url": "https://api.bzqll.com/music/tencent/url?id=0012PhU42rNm5y&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=0012PhU42rNm5y&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=0012PhU42rNm5y&key=579621905"
+    }, {
+      "id": "002Uerim2tRIne",
+      "name": "Make You Happy",
+      "singer": "Erin Boheme",
+      "url": "https://api.bzqll.com/music/tencent/url?id=002Uerim2tRIne&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=002Uerim2tRIne&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=002Uerim2tRIne&key=579621905"
+    }, {
+      "id": "003v56WI1gYQ1a",
+      "name": "Time Together",
+      "singer": "Michael Franks",
+      "url": "https://api.bzqll.com/music/tencent/url?id=003v56WI1gYQ1a&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=003v56WI1gYQ1a&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=003v56WI1gYQ1a&key=579621905"
+    }, {
+      "id": "001gBFu22YDELa",
+      "name": "Carry On",
+      "singer": "Norah Jones",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001gBFu22YDELa&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001gBFu22YDELa&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001gBFu22YDELa&key=579621905"
+    }, {
+      "id": "001ECemE4Ncac7",
+      "name": "Another Day",
+      "singer": "Malene Mortensen",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001ECemE4Ncac7&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001ECemE4Ncac7&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001ECemE4Ncac7&key=579621905"
+    }, {
+      "id": "001Ll1uw3k3zyt",
+      "name": "You're Everything",
+      "singer": "Chick Corea/Return To Forever",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001Ll1uw3k3zyt&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001Ll1uw3k3zyt&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001Ll1uw3k3zyt&key=579621905"
+    }, {
+      "id": "001XCRQR0ffizA",
+      "name": "Learnin’ The Blues",
+      "singer": "Katie Melua",
+      "url": "https://api.bzqll.com/music/tencent/url?id=001XCRQR0ffizA&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=001XCRQR0ffizA&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=001XCRQR0ffizA&key=579621905"
+    }, {
+      "id": "003MopJm40mTj1",
+      "name": "The Chicken",
+      "singer": "Brian Bromberg",
+      "url": "https://api.bzqll.com/music/tencent/url?id=003MopJm40mTj1&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=003MopJm40mTj1&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=003MopJm40mTj1&key=579621905"
+    }, {
+      "id": "004ISbnX4cuQoy",
+      "name": "Down The Wire",
+      "singer": "Spyro Gyra",
+      "url": "https://api.bzqll.com/music/tencent/url?id=004ISbnX4cuQoy&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=004ISbnX4cuQoy&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=004ISbnX4cuQoy&key=579621905"
+    }, {
+      "id": "003vbRL32fufmU",
+      "name": "Moonlight Mile",
+      "singer": "J3 三重奏",
+      "url": "https://api.bzqll.com/music/tencent/url?id=003vbRL32fufmU&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=003vbRL32fufmU&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=003vbRL32fufmU&key=579621905"
+    }, {
+      "id": "000XEUGI0IJdQo",
+      "name": "Bass Tribute",
+      "singer": "Victor Wooten",
+      "url": "https://api.bzqll.com/music/tencent/url?id=000XEUGI0IJdQo&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=000XEUGI0IJdQo&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=000XEUGI0IJdQo&key=579621905"
+    }, {
+      "id": "000R3Ec71Gf5j3",
+      "name": "Yahoo",
+      "singer": "Yellowjackets",
+      "url": "https://api.bzqll.com/music/tencent/url?id=000R3Ec71Gf5j3&key=579621905",
+      "pic": "https://api.bzqll.com/music/tencent/pic?id=000R3Ec71Gf5j3&key=579621905",
+      "lrc": "https://api.bzqll.com/music/tencent/lrc?id=000R3Ec71Gf5j3&key=579621905"
+    }]
+  }
+}
