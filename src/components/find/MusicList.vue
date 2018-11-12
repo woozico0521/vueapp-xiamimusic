@@ -6,8 +6,8 @@
         </div>
         <ul class="music-list">
             <li v-for="music in musicList" :key="music.id" @click="goListDetail(music.id)">
-                <img :src="music.coverImgUrl" alt="">
-                <p>{{music.title}}</p>
+                <img :src="music.pic" alt="">
+                <p>{{music.name}}</p>
             </li>
         </ul>
 
@@ -56,7 +56,7 @@ export default {
             Axios.get(url).then((res)=>{
                 let list = res.data.data;
                 this.musicList = list.slice(0,6);
-                //console.log(list);
+                console.log(list);
             }).catch(()=>{
                 alert('请求失败')
             })
@@ -64,7 +64,7 @@ export default {
             Axios.get(url2).then((res)=>{
                 let list = res.data.data
                 this.videoList = list.slice(0,6);
-                console.log(list);
+                //console.log(list);
             }).catch(()=>{
                 alert('请求失败')
             })
