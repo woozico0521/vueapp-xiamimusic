@@ -119,6 +119,50 @@
                 <p class="light-author">虾米音乐人</p>
             </li>
         </ul>
+        <ul class="light-down">
+            <li>
+                <img src="@/assets/images/light-down01.jpg" alt="">
+                <p class="light-name">卢焱</p>
+                <p class="light-tag">#国语流行 Mandarin Pop#</p>
+            </li>
+            <li>
+                <img src="@/assets/images/light-down02.jpg" alt="">
+                <p class="light-name">G.G</p>
+                <p class="light-tag">#流行说唱 Pop Rap#</p>
+            </li>
+            <li>
+                <img src="@/assets/images/light-down03.jpg" alt="">
+                <p class="light-name">徐梦圆</p>
+                <p class="light-tag">#日本动漫游戏 Japanese ACG#</p>
+            </li>
+        </ul>
+
+        <div class="title">
+            <h4>趴间·一起听</h4>
+            <p>更多 <span>&gt;</span></p>
+        </div>
+        <ul class="pa">
+            <li>
+                <img src="@/assets/images/find-pa01.jpg" alt="">
+                <p class="pa-tag">#韩国流行 #韩语 #韩语流行</p>
+            </li>
+            <li>
+                <img src="@/assets/images/find-pa02.jpg" alt="">
+                <p class="pa-tag">#同人音乐 #日本动漫游戏 #日本动漫音乐</p>
+            </li>
+            <li>
+                <img src="@/assets/images/find-pa03.jpg" alt="">
+                <p class="pa-tag">#韩语 #流行舞曲</p>
+            </li>
+            <li>
+                <img src="@/assets/images/find-pa04.jpg" alt="">
+                <p class="pa-tag">#节奏布鲁斯 #嘻哈</p>
+            </li>
+            <li>
+                <img src="@/assets/images/find-pa05.jpg" alt="">
+                <p class="pa-tag">#国语流行 #华语 #经典歌曲</p>
+            </li>
+        </ul>
     </div>
 </template>
 
@@ -199,7 +243,15 @@ export default {
 .light li:first-child{flex-grow: 2;width: 60%;margin-right: 0.3rem;}
 .light-title{width: 100%;font-weight: bold;line-height: 0.4rem;color: #666;}
 .light-author{width: 100%;font-size: 0.2rem;color:#999}
+.light-down{width: 90%;margin:0 5%;display: flex;justify-content: space-between;}
+.light-down li{width: 30%;text-align: center;}
+.light-name{width: 100%;font-weight: bold;}
+.light-tag{width: 100%;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;font-size: 0.2rem;color:#F94F1F;}
 
+.pa{width: 90%;margin:0 5%;display: flex;flex-wrap: wrap;justify-content: space-around;}
+.pa li{width: 30%;margin-bottom: 0.2rem;}
+.pa li:first-child,.pa li:nth-child(2){width: 45%;}
+.pa-tag{width: 100%;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;font-size: 0.2rem;color:#999;}
 
 /* footer{width: 100%;position:fixed;} */
 </style>
