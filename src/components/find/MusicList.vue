@@ -99,9 +99,24 @@
                 <p class="light-author">我是挖掘机小号</p>
             </li>
             <li>
-                <img src="@/assets/images/find-light01.jpg" alt="">
+                <img src="@/assets/images/find-light02.jpg" alt="">
                 <p class="light-title">[大牌]只不过一闪念</p>
-                <p class="light-author">我是挖掘机小号</p>
+                <p class="light-author">好歌挖掘机</p>
+            </li>
+            <li>
+                <img src="@/assets/images/find-light03.jpg" alt="">
+                <p class="light-title">[寻光少年]-阿图什冲浪男孩</p>
+                <p class="light-author">虾米音乐人</p>
+            </li>
+            <li>
+                <img src="@/assets/images/find-light04.jpg" alt="">
+                <p class="light-title">[欧美][寻光少年]-WAV</p>
+                <p class="light-author">虾米音乐人</p>
+            </li>
+            <li>
+                <img src="@/assets/images/find-light05.jpg" alt="">
+                <p class="light-title">[寻光少年]-方拾贰</p>
+                <p class="light-author">虾米音乐人</p>
             </li>
         </ul>
     </div>
@@ -179,8 +194,11 @@ export default {
 .find-look li .author p{margin-left: 1.2rem;line-height: 0.7rem;}
 .red-bag{width: 90%;margin:0.3rem 5%;}
 
-
-
+.light{width: 90%;margin:0 5%;display: flex;flex-wrap: wrap;justify-content: space-between;}
+.light li{width: 30%;margin-bottom: 0.3rem;}
+.light li:first-child{flex-grow: 2;width: 60%;margin-right: 0.3rem;}
+.light-title{width: 100%;font-weight: bold;line-height: 0.4rem;color: #666;}
+.light-author{width: 100%;font-size: 0.2rem;color:#999}
 
 
 /* footer{width: 100%;position:fixed;} */
