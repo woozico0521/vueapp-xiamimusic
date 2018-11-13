@@ -25,6 +25,8 @@ export default {
                 require('@/assets/images/1541734306453.jpg'),
                 require('@/assets/images/1541644166239.jpg'),
                 require('@/assets/images/1541735286731.jpg'),
+                require('@/assets/images/1542088813434.jpg'),
+                require('@/assets/images/1542000824490.jpg'),
             ],
             nowIndex:0,
             timer:null,

@@ -32,10 +32,10 @@
             </div>
         </div>
         <ul>
-            <li v-for="music in musicList" :key="music.id">
+            <li v-for="song in musicList" :key="song.id" >
                 <div class="name">
-                    <h5>{{music.name}}</h5>
-                    <p><span>SQ</span> {{music.singer}}</p>
+                    <h5>{{song.name}}</h5>
+                    <p><span>SQ</span> {{song.singer}}</p>
                 </div>
                 <div class="des">
                     <span>MV</span>
@@ -43,17 +43,25 @@
                 </div>
             </li>
         </ul>
+        <music-footer></music-footer>
     </div>
 </template>
 
 <script>
+import Aplayer from 'vue-aplayer'
 import Axios from 'axios'
+import MusicFooter from '../common/MusicFooter'
 export default {
+    components:{
+        Aplayer,
+        MusicFooter,
+    },
     data(){
         return{
             musicDetail:[],
             musicList:[],
             num:0,
+            
         }
     },
     methods:{
@@ -72,9 +80,9 @@ export default {
             let bg = res.data.data.logo;
             this.$refs.note.style.background = "url("+bg+") no-repeat center center";
             this.num = res.data.data.songs.length;
-            this.musicList = res.data.data.songs
-            console.log(this.musicList)
-
+            let list = res.data.data.songs
+            this.musicList = list
+            console.log(list)
         }).catch(()=>{
             alert('出错了')
         })
@@ -99,7 +107,7 @@ p{width: 100%;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color
 .play-left .start{display: inline-block;padding: 5px 10px;background: #F5F5F5;border-radius: 5px;color:#D2522F;margin-right: 10px;}
 .play-left .num{color: #999;}
 .play-right img{width: 30px;margin-top:2px;}
-ul{width: 90%;margin:0 5%;border-top:1px solid #F5F5F5;}
+ul{width: 90%;margin:0 5%;border-top:1px solid #F5F5F5;margin-bottom:1.1rem;}
 ul li{width: 100%;margin:0.3rem 0;display:flex;justify-content: space-between;}
 ul li h5{font-weight: bold;line-height: 0.4rem;font-size: 0.35rem;}
 ul li p{background: none;color: #999;margin:0;padding: 0;}
@@ -107,4 +115,5 @@ ul li p span{display: inline-block;border-radius: 5px;border:1px solid #999;line
 ul li .des{padding-top:0.2rem; }
 ul li .des span{background: #999;border-radius: 5px;color: #fff;padding: 0.03rem;vertical-align: middle;}
 ul li .des img{width: 40%;}
+
 </style>
