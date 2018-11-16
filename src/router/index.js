@@ -2,12 +2,13 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import HelloWorld from '@/components/HelloWorld'
 import Find from '@/components/find/Find'
-import Play from '@/components/play/Play'
-import MyMusic from '@/components/myMusic/MyMusic'
-import Dynamic from '@/components/dynamic/Dynamic'
-import Mine from '@/components/mine/Mine'
 import FindMain from '@/components/find/FindMain'
 import MusicDetail from '@/components/find/MusicDetail'
+import MyMusic from '@/components/myMusic/MyMusic'
+import MySong from '@/components/myMusic/MySong'
+import Play from '@/components/play/Play'
+import Dynamic from '@/components/dynamic/Dynamic'
+import Mine from '@/components/mine/Mine'
 
 Vue.use(Router)
 
@@ -29,11 +30,6 @@ export default new Router({
           name:'FindMain',
           component:FindMain,
         },
-        /* {
-          path:'musicDetail/:musicId',
-          name:'MusicDetail',
-          component:MusicDetail,
-        } */
       ],
     },{
         path:'/find/musicDetail/:musicId',
@@ -48,6 +44,14 @@ export default new Router({
       path:'/myMusic',
       name:'MyMusic',
       component:MyMusic,
+      redirect:'/myMusic/mySong',
+      children:[
+        {
+          path:'mySong',
+          name:'MySong',
+          component:MySong,
+        },
+      ],
     },{
       path:'/dynamic',
       name:'Dynamic',
