@@ -6,8 +6,6 @@
             <swipe-item class="slide3"></swipe-item>
             <swipe-item class="slide4"></swipe-item>
             <swipe-item class="slide5"></swipe-item>
-            <swipe-item class="slide6"></swipe-item>
-            <swipe-item class="slide7"></swipe-item>
         </swipe>    
         
     </div>
@@ -33,40 +31,31 @@ export default {
 }
 
 .slide1 {
-  background-image: url('/static/img/1541149369308.jpg');
+  background-image: url('https://pic.xiami.net/images/common/uploadpic/63/1543393992863.jpg');
   color: #fff;
   background-size: 100%;
 }
 
 .slide2 {
-  background-image: url('/static/img/1541476544886.jpg');
+  background-image: url('https://pic.xiami.net/images/common/uploadpic/98/1543220245098.jpg');
   color: #000;
   background-size: 100%;
 }
  
 .slide3 {
-  background-image: url('/static/img/1541644166239.jpg');
+  background-image: url('https://pic.xiami.net/images/common/uploadpic/84/1543399668284.jpg');
   color: #fff;
   background-size: 100%;
 }
 .slide4 {
-  background-image: url('/static/img/1541734306453.jpg');
+  background-image: url('https://pic.xiami.net/images/common/uploadpic/13/1542963016913.jpg');
   color: #fff;
   background-size: 100%;
 }
 .slide5 {
-  background-image: url('/static/img/1541735286731.jpg');
+  background-image: url('https://pic.xiami.net/images/common/uploadpic/56/1542861926956.jpg');
   color: #fff;
   background-size: 100%;
 }
-.slide6 {
-  background-image: url('/static/img/1542000824490.jpg');
-  color: #fff;
-  background-size: 100%;
-}
-.slide7 {
-  background-image: url('/static/img/1542088813434.jpg');
-  color: #fff;
-  background-size: 100%;
-}
+
 </style>

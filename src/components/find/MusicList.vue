@@ -177,8 +177,8 @@ export default {
     },
     methods:{
         dataLoad(){
-            let url = '/static/data/hotsonglist.json'
-            let url2 = '/static/data/video.json'
+            let url = './static/data/hotsonglist.json'
+            let url2 = './static/data/video.json'
             Axios.get(url).then((res)=>{
                 let list = res.data.data;
                 this.musicList = list.slice(0,6);

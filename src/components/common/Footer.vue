@@ -54,7 +54,7 @@ export default {
 
 <style scoped>
 a{color: #000;outline: none;}
-.footer{width: 100%;height: 1.2rem;position: fixed;bottom:0;display: flex;justify-content: space-evenly;background: #ffffff;}
+.footer{width: 100%;height: 1.2rem;position: fixed;bottom:0;display: flex;justify-content: space-evenly;background: #F3F4F6;border-top:1px solid #E2E3E4;}
 .footer li{text-align: center;font-size: 0.1rem;margin-top:0.1rem;}
 .footer li a.router-link-active{color: #FA5122;}
 .footer li div.img img:first-child{display: none;}
